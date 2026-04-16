@@ -1,4 +1,6 @@
 print('jay shree Radha')
 print('app keshe ho ')
-print('kishori ji hime apne cherno ka dash bana ligiye na')
-print('hum app ke cherno me premi he ladli ju')
+print('hame apne cherno ka dash bana lo radhe')
+print('hum app ke he ha radha')
+print('piyari ju ham to app ke hi he')
+print('hume apne shree cherno ke seva de do kishori ju')
